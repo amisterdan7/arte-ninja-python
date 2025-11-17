@@ -1,0 +1,4 @@
+Prompts utilizados na criação do projeto:
+1. Explique conceitos básicos de Python.
+2. Crie exemplos práticos para iniciantes.
+3. Estruture um ebook com capítulos sobre variáveis, tipos de dados, entrada de dados, operadores e comentários.
