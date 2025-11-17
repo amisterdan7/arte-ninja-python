@@ -2,21 +2,53 @@
 
 Bem-vindo ao repositório do **Arte Ninja do Python**! Este projeto foi criado com o objetivo de fornecer um material didático, prático e visualmente atraente para quem deseja iniciar sua jornada na linguagem Python.
 
-## 📚 Sobre o Projeto
+## 💻 Tecnologias utilizadas no projeto
 
-O "Arte Ninja do Python" é um guia introdutório que transforma conceitos de programação em habilidades lendárias. O material foca na simplicidade e clareza, características marcantes do Python.
+- [ChatGPT](https://chat.openai.com/) - Para roteirização e conteúdo didático
+- [Bing Criador de Imagens](https://www.bing.com/images/create) - Para geração da capa e visuais
+- [PowerPoint](https://www.microsoft.com/en-us/microsoft-365/powerpoint) - Para diagramação do Ebook
 
-### Conteúdo do Ebook
-O material aborda os seguintes tópicos fundamentais:
-- **Introdução ao Python:** Por que usar Python e suas aplicações.
-- **Variáveis:** Como armazenar informações ("caixinhas") na memória.
-- **Tipos de Dados:** `int`, `float`, `str`, `bool` e `list`.
-- **Entrada de Dados:** Interagindo com o usuário usando `input()`.
-- **Operadores:** Realizando cálculos e operações matemáticas.
-- **Comentários:** Boas práticas para documentar seu código.
+## ✨ Features
 
-## 📂 Estrutura do Repositório
+- Conteúdo didático gerado via **ChatGPT**
+- Imagens ilustrativas geradas via **Bing Criador de Imagens**
 
+## 📚 Materiais
+
+- Imagens utilizadas em `assets`
+- Ebook gerado durante as aulas em `output`
+
+## 🧠 Prompts
+
+### ChatGPT:
+
+| Ação | Prompt |
+| :--- | :--- |
+| **Conteúdo** | Explique conceitos básicos de Python. |
+| **Exemplos** | Crie exemplos práticos para iniciantes. |
+| **Estrutura** | Estruture um ebook com capítulos sobre variáveis, tipos de dados, entrada de dados, operadores e comentários. |
+
+### Bing Criador de Imagens:
+
+| Ação | Prompt |
+| :--- | :--- |
+| **Capa** | A ninja programmer with a python logo on the chest, pixel art style, dark background, cinematic lighting |
+
+---
+
+## 🛠️ Estrutura do Repositório
+
+- `/output`: Contém o arquivo final do ebook (PDF e PPTX).
+- `/assets`: Imagens utilizadas no projeto.
+- `/prompts`: Arquivos de texto com os comandos utilizados.
+
+## 👤 Autor
+
+**Ricardo Amisterdan**
+*Construindo habilidades lendárias em programação.*
+
+---
+*Este projeto é destinado a fins educacionais. Sinta-se à vontade para explorar e contribuir!*
 - `/ebook`: Contém o arquivo principal do curso em formatos PDF e PPTX.
 - `/prompts`: Lista dos prompts utilizados na Inteligência Artificial para auxiliar na criação do conteúdo e estrutura didática.
 
